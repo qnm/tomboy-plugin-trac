@@ -1,0 +1,1 @@
+Based on the Bugzilla plugin, this plugin creates links to trac issues when you drag in a url for the issue.
